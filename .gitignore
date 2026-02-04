@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+flask_session/
+
+# OS / Editor
+.vscode/
+.idea/
+
+# Media / junk
+*.png
+*.jpg
+*.jpeg
+Songs/
+
+# Data / outputs
+data/
+datasets/
+*.zip
